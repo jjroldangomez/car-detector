@@ -1,6 +1,8 @@
 # car-detector
 A convolutional neural network that detects the cars and their colors in aerial images. It uses a simple Python script with some Tensorflow functions. If you are learning Tensorflow, this can be your code!
 
+![alt text](https://github.com/jjroldangomez/car-detector/blob/master/CarDetector.png)
+
 # Content
 Here you can find the following files and folders:
 - CarDetector.py: Try to create, train and use the neural network!
