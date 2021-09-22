@@ -31,3 +31,6 @@ main_predict:
 
 # Contact
 Juan Jesús Roldán Gómez - PhD on Automation and Robotics - www.jjrg.org - jj.roldan.gomez@gmail.com.
+
+# Warning!
+This code was developed under Python 3.6 with Tensorflow 1.12 and Scipy 1.2. Multiple changes are required to make it work in the latest versions. 
